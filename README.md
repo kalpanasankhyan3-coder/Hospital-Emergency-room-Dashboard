@@ -1,6 +1,7 @@
 A clean and interactive Excel dashboard that analyzes key Emergency Room performance metrics such as patient volume, wait times, satisfaction score, admission status, age groups, gender distribution, and department referrals.
 
-<img width="958" height="483" alt="image" src="https://github.com/user-attachments/assets/6602492c-68a9-4421-9a9c-d3074eebd148" />
+<img width="793" height="404" alt="image" src="https://github.com/user-attachments/assets/b9493425-91c1-4c54-b474-33487e2e1787" />
+
 
 Key Features:
 Total Patients, Wait Time, Satisfaction Score KPIs,
