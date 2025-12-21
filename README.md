@@ -19,7 +19,5 @@ Slicers,
 Data Cleaning,
 Dashboard Design,
 
-How to Use:
-Download the Excel file.
-Open in Microsoft Excel.
-Use slicers to interact with the data.
+For live interactive dashboard:
+https://1drv.ms/x/c/f06760e2c7573458/IQCuB6xVzI3QSLVMnTq0drjhARFPHFJXNPSPzJpkVxgKQOY?e=rqwNCC
