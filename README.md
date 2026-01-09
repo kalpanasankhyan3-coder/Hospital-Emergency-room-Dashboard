@@ -20,4 +20,4 @@ Data Cleaning,
 Dashboard Design,
 
 For live interactive dashboard:
-https://docs.google.com/spreadsheets/d/19VtEPLIm5YveAIyQThnMBOAn3JqArX0b/edit?usp=drive_link&ouid=105305065009311230901&rtpof=true&sd=true
+https://1drv.ms/x/c/f06760e2c7573458/IQCuB6xVzI3QSLVMnTq0drjhAUtR0CgLCu6JcHqKuL7uhb8?e=wTnXhz
